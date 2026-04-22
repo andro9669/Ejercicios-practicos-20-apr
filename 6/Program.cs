@@ -14,6 +14,10 @@ namespace _6
     // - Mostrar suma de positivos y suma de negativos  
     // - Mostrar cuál grupo tiene mayor suma  
     // - Salir
+
+    // Como usuario necesito ingresar numeros para que ver estadisticas segun sus valores
+    // Como sistemas necesito crear un menu interactivo para que el usuario conozco estadisticas de los numeros que ingresa
+
     internal class Program
     {
         static int cantidadPositivos = 0, cantidadNegativos = 0, Cantidad0 = 0;
