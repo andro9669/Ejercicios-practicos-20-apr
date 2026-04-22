@@ -1,0 +1,7 @@
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\bin\Debug\ejercicio-5.exe.config
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\bin\Debug\ejercicio-5.exe
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\bin\Debug\ejercicio-5.pdb
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\obj\Debug\ejercicio-5.csproj.AssemblyReference.cache
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\obj\Debug\ejercicio-5.csproj.CoreCompileInputs.cache
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\obj\Debug\ejercicio-5.exe
+F:\C#\Ejercicios practicos\20 apr\enunciados\ejercicio-5\obj\Debug\ejercicio-5.pdb

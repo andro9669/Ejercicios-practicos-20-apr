@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\bin\Debug\1.exe.config
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\bin\Debug\1.exe
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\bin\Debug\1.pdb
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\obj\Debug\1.exe
+C:\Users\andre\OneDrive\Documentos\C#\Ejercicios practicos\20 apr\ejercicios-practicos-20-apr\1\obj\Debug\1.pdb
+F:\C#\Ejercicios practicos\20 apr\1\bin\Debug\1.exe.config
+F:\C#\Ejercicios practicos\20 apr\1\bin\Debug\1.exe
+F:\C#\Ejercicios practicos\20 apr\1\bin\Debug\1.pdb
+F:\C#\Ejercicios practicos\20 apr\1\obj\Debug\1.csproj.AssemblyReference.cache
+F:\C#\Ejercicios practicos\20 apr\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\C#\Ejercicios practicos\20 apr\1\obj\Debug\1.exe
+F:\C#\Ejercicios practicos\20 apr\1\obj\Debug\1.pdb
