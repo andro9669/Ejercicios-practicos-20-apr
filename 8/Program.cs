@@ -19,7 +19,7 @@ namespace _8
         static void Main(string[] args)
         {
             bool correrAplicacion = true;
-            int Pares = 0, Impares = 0, Positivos = 0, Negativos = 0, Ceros = 0;
+            int Ceros = 0;
             int ParesPositivos = 0, ParesNegativos = 0, ImparesPositivos = 0, ImparesNegativos = 0;
             while (correrAplicacion)
             {
